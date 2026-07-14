@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image2 P"
+  short_description: "Generate and edit images through compatible proxies"
+  default_prompt: "Use $image2-p to generate or edit an image and save the result locally."
